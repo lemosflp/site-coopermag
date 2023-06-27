@@ -26,3 +26,4 @@ $(document).ready(function() {
     $('.next').click(slideNext);
     $('.prev').click(slidePrev);
 });
+

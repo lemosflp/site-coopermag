@@ -333,7 +333,6 @@ nav ul li a:hover {
     align-items: center;
     padding-bottom: 10%;
     max-width: auto;
-    /* max-height:max-content; */
     height: max-content;
 }
 
@@ -361,7 +360,7 @@ nav ul li a:hover {
     background-color: #7C9070;
     width: 80%;
     height: 100%;
-    text-align: center;
+    align-items: center;
     border-radius: 16px;
     border-style: solid;
     font-size: 1.5rem;
@@ -369,6 +368,7 @@ nav ul li a:hover {
     padding: 1% 5%;
     color: white;
 }
+
 
 .links_link:hover {
     background-color: #337A42;
@@ -386,7 +386,6 @@ nav ul li a:hover {
     background-color: #1e4426;
     font-size: 1rem;
 
-    /* position: absolute; */
 }
 
 @media (max-width: 1200px) {
